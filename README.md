@@ -1,7 +1,7 @@
 # Kubernetes Hero
 
 ### Background
-- What is Kubernetes?
+- [What is Kubernetes?](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
 - The Borg Heritage
 ### Kubernetes Architecture and Components
 - Control Plane
